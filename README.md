@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,express,html,css,scss,discordjs,bootstrap,python,lua,windows,cs,cpp)](https://skillicons.dev)](https://skillicons.dev/icons?i=js,ts,react,vite,express,html,css,scss,discordjs,bootstrap,python,lua,windows,cs,cpp)
+https://skillicons.dev/icons?i=js,ts,react,vite,express,html,css,scss,discordjs,bootstrap,python,lua,windows,cs,cpp
 
 <!--
 **robigame1977/robigame1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
