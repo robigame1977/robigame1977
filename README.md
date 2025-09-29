@@ -6,6 +6,7 @@ What I am familiar with so far: (from best to weakest sides)
 
 ![VS Code](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue)
 ![Windows 11](https://img.shields.io/badge/Operating_System-Windows_11-blue)
+![Coding](https://img.shields.io/badge/Current_Project-panel.isopl.pl_&_backend-orange)
 
 <!--
 **robigame1977/robigame1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
